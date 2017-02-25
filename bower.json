@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "description": "angularjs webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "mit",
+  "homepage": "https://github.com/xia12345ming/webApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "ui-router#^0.4.2"
+  },
+  "authors": [
+    "xiaming <xiaming@datoubao365.com>"
+  ]
+}
